@@ -1,4 +1,0 @@
-#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment",STAR Plus
-http://2hubs.ddns.net:25461/BabNour/telegrramm/69442?checkedby:iptvcat.org
