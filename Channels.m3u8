@@ -1,4 +1,4 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment",STAR Plus HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="Entertainment",Star Plus
 http://tv.cloudcdn.me:80/live?channelId=12357&deviceMac=00:1A:79:00:00:00
