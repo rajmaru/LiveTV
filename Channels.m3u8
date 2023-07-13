@@ -3,5 +3,5 @@
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",Star Plus
 http://tv.cloudcdn.me:80/live?channelId=12357&deviceMac=00:1A:79:00:00:00 
 
-#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",Sony SAB
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",SONY SAB HD
 http://pakin.worldtvip.co/motive_sabtv_hd/index.m3u8?token=16d420a526a0795bd67ab72029e0410b
