@@ -1,4 +1,7 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz" 
 
-#EXTINF:0 tvg-id="StarPlus.uk" group-title="Entertainment",Star Plus
-https://denverloverussian69.000webhostapp.com/Toffee/Streams/index.php?id=star_plus&utoken=&e=.m3u8
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png" group-title="Entertainment",Star Plus
+http://tv.cloudcdn.me:80/live?channelId=12357&deviceMac=00:1A:79:00:00:00 
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png" group-title="Entertainment",Sony SAB
+http://pakin.worldtvip.co/motive_sabtv_hd/index.m3u8?token=16d420a526a0795bd67ab72029e0410b
