@@ -20,3 +20,36 @@ http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png" group-title="Entertainment",&TV HD
 http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00 
+
+
+NEW
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Entertainment",Star Gold HD
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/HgD4Tmg.jpg" group-title="Entertainment",Star Gold 2
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="Entertainment",Star Gold Select
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Entertainment",Sony Max
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="Entertainment",Sony Max HD
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Entertainment",Zee Cinema HD
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png" group-title="Entertainment",Star Bharat
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Entertainment",Sony Pix HD
+
+
+#EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Entertainment",Colors Cineplex Bollywood
+
+
+#EXTINF:0 tvg-logo="https://i0.wp.com/journalismguide.in/wp-content/uploads/2022/07/Colors-Cineplex-Superhits-to-become-FTA-from-18th-Aug-scaled.jpg?resize=800%2C445&ssl=1" group-title="Entertainment",Colors Cineplex Superhit
+
