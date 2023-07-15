@@ -22,7 +22,7 @@ http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:00:00:00
 http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00 
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Entertainment",Star Gold HD
-http://tv.cloudcdn.me:80/live?channelId=196&deviceMac=00:1A:79:00:00:00
+http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862738&extension=ts&play_token=fMl8aTNLSz&sn2=
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HgD4Tmg.jpg" group-title="Entertainment",Star Gold 2
 http://tv.cloudcdn.me:80/live?channelId=33165&deviceMac=00:1A:79:00:00:00
