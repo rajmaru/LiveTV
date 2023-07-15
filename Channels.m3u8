@@ -46,7 +46,7 @@ http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862775&extens
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862723&extension=ts&play_token=3yQEwGiWPi&sn2=
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Vision TV",Colors Cineplex Bollywood
-
+http://tv.cloudcdn.me:80/live?channelId=62412&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://i0.wp.com/journalismguide.in/wp-content/uploads/2022/07/Colors-Cineplex-Superhits-to-become-FTA-from-18th-Aug-scaled.jpg?resize=800%2C445&ssl=1" group-title="Vision TV",Colors Cineplex Superhit
-
+http://tv.cloudcdn.me:80/live?channelId=62413&deviceMac=00:1A:79:00:00:00
