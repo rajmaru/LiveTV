@@ -43,7 +43,7 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Entertainment",Sony Pix HD
-http://185.132.178.105:80/IND_SONYPIXHD/index.m3u8?token=84c6a657ad312139d2d08cfd0bc6d801
+http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862723&extension=ts&play_token=3yQEwGiWPi&sn2=
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Entertainment",Colors Cineplex Bollywood
 
