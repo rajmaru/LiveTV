@@ -106,10 +106,10 @@ http://tv.cloudcdn.me:80/live?channelId=25529&deviceMac=00:1A:79:00:00:00
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862839&extension=ts&play_token=Q3tOCnk53o&sn2=
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12140-j9p7vga8-v1/imageContent-12140-j9p7vga8-m1.png" group-title="Vision TV",News18 Lokmat
-http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLyeFx87hvadJAP7kSPTmh12XWVmdj6C29iOwQCDHKt8lpaBWa_oKLwDQ8qaDSjvZ4mc?ext=.ts
+http://tv.cloudcdn.me:80/live?channelId=28127&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-315-j5jjsht4-v2/imageContent-315-j5jjsht4-m2.png" group-title="Vision TV",TV9 Marathi
 http://tv.cloudcdn.me:80/live?channelId=28129&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png" group-title="Vision TV",Zee 24 Taas
-http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLyeSY00zG7C-51Ri9WHF_ClEpfj-EP7mdXzCrBS94g3L0iCc_LeH_-mqr-lOJ70P64A?ext=.ts
+http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862846&extension=ts&play_token=33bKc5vJnb&sn2=
