@@ -22,7 +22,7 @@ http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:00:00:00
 http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00 
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Entertainment",Star Gold HD
-http://pakin.worldtvip.co/motive_stargold_hd/index.m3u8?token=aff056059be078f633d1913c58aa1a6d
+http://pakin.worldtvip.co/motive_stargold_hd/index.m3u8?token=442b0c2bcc648f1326c8d5a530116cb1
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HgD4Tmg.jpg" group-title="Entertainment",Star Gold 2
 http://185.132.178.50/IN_StarGold2/index.m3u8?token=2fef9278f77d9c2c94397aac280ee7f0
