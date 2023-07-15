@@ -22,13 +22,13 @@ http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:00:00:00
 http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00 
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Entertainment",Star Gold HD
-http://pakin.worldtvip.co/motive_stargold_hd/index.m3u8?token=442b0c2bcc648f1326c8d5a530116cb1
+http://tv.cloudcdn.me:80/live?channelId=196&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/HgD4Tmg.jpg" group-title="Entertainment",Star Gold 2
-http://185.132.178.50/IN_StarGold2/index.m3u8?token=2fef9278f77d9c2c94397aac280ee7f0
+http://tv.cloudcdn.me:80/live?channelId=33165&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg/revision/latest?cb=20211216003620" group-title="Entertainment",Star Gold Select
-http://54.39.100.215:80/IND_STARGOLDSELECT/index.m3u8?token=d6a7498b1d782aa2e848ecfa62a67644
+http://tv.cloudcdn.me:80/live?channelId=197&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Entertainment",Sony Max
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
