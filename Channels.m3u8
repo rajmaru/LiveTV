@@ -64,7 +64,7 @@ http://tv.cloudcdn.me:80/live?channelId=178&deviceMac=00:1A:79:00:00:00
 http://tv.cloudcdn.me:80/live?channelId=216&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-849-j5m9tmf4-v1/imageContent-849-j5m9tmf4-m1.png" group-title="Vision TV",News 24
-http://54.39.100.215/IN_News24/mpegts?token=367750a59831a9c98f0645e1da25db45
+http://54.39.100.215/IN_News24/mpegts?token=3099a823bafc403702c7776ab3934c77
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11978-j9lum7d4-v1/imageContent-11978-j9lum7d4-m1.png" group-title="Vision TV",Zee Hindustan
 http://tv.cloudcdn.me:80/live?channelId=25528&deviceMac=00:1A:79:00:00:00
