@@ -79,7 +79,7 @@ http://54.39.100.215/IND_TimesNowNavbharat/mpegts?token=4b2c98a3a44e69581eb6f41d
 http://185.132.178.50/IN_REPUBLICBHARAT/index.m3u8?token=027bcbc16e5883e868e0aceb230c8eb0
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png" group-title="Vision TV",News18 India
-http://185.132.178.50/IND_News18InHD/index.m3u8?token=1477be4752d80b3c086b53f7c2aa6517
+http://tv.cloudcdn.me:80/live?channelId=61901&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8568-j7lnde80-v1/imageContent-8568-j7lnde80-m1.png" group-title="Vision TV",India TV
 http://tv.cloudcdn.me:80/live?channelId=171&deviceMac=00:1A:79:00:00:00
