@@ -45,7 +45,7 @@ http://tv.cloudcdn.me:80/live?channelId=139&deviceMac=00:1A:79:00:00:00
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Vision TV",Colors Cineplex Bollywood
 http://tv.cloudcdn.me:80/live?channelId=62412&deviceMac=00:1A:79:00:00:00
 
-#EXTINF:0 tvg-logo="https://i0.wp.com/journalismguide.in/wp-content/uploads/2022/07/Colors-Cineplex-Superhits-to-become-FTA-from-18th-Aug-scaled.jpg?resize=800%2C445&ssl=1" group-title="Vision TV",Colors Cineplex Superhit
+#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GR6tzDW1QXfX4S_ZBQ3Tng8WsUNKFyU8" group-title="Vision TV",Colors Cineplex Superhit
 http://tv.cloudcdn.me:80/live?channelId=62413&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GFDnIPJ72WVHlZ9rVx9hsY8j_HMHbOVR" group-title="Vision TV",Star Gold Thrills
@@ -54,7 +54,7 @@ http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862775&extens
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Vision TV",Sony Pix HD
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862723&extension=ts&play_token=3yQEwGiWPi&sn2=
 
-#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2018/05/andflix-logo_4.jpg" group-title="Vision TV",&Flix HD
+#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GHlz_-u31WmGMwbsdMs88UEG8cJDhBvg" group-title="Vision TV",&Flix HD
 http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLyfl_L-NgN9HapTy2LBDM3plnA8q2Ig9GkzuWudpf01u2p9UpnaAqGF2XMWP_eL-E9s?ext=.ts
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="Vision TV",Aaj Tak HD
