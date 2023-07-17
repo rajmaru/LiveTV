@@ -24,10 +24,10 @@ http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="Vision TV",Star Gold HD
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862738&extension=ts&play_token=fMl8aTNLSz&sn2=
 
-#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1FnXcQhD4-DGy4Xta9m2TXaxrty5nvhVI" group-title="Vision TV",Star Gold 2
+#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1G4_JcLHk_2O6J7P6BrdyPRc9bqxrL5Tz" group-title="Vision TV",Star Gold 2
 http://tv.cloudcdn.me:80/live?channelId=33165&deviceMac=00:1A:79:00:00:00
 
-#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1FoTwlHN4MXVbiDpoyISU6uqgzu91yN5k" group-title="Vision TV",Star Gold Select
+#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GBPLQsE43ErC8F4pBxCiz5W6hl8kQZ_H" group-title="Vision TV",Star Gold Select
 http://tv.cloudcdn.me:80/live?channelId=197&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Vision TV",SONY MAX
@@ -48,7 +48,7 @@ http://tv.cloudcdn.me:80/live?channelId=62412&deviceMac=00:1A:79:00:00:00
 #EXTINF:0 tvg-logo="https://i0.wp.com/journalismguide.in/wp-content/uploads/2022/07/Colors-Cineplex-Superhits-to-become-FTA-from-18th-Aug-scaled.jpg?resize=800%2C445&ssl=1" group-title="Vision TV",Colors Cineplex Superhit
 http://tv.cloudcdn.me:80/live?channelId=62413&deviceMac=00:1A:79:00:00:00
 
-#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1Fr8Zfo1HQvNqMACHxEfIYSs-6OI0pLsc" group-title="Vision TV",Star Gold Thrills
+#EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GFDnIPJ72WVHlZ9rVx9hsY8j_HMHbOVR" group-title="Vision TV",Star Gold Thrills
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862775&extension=ts&play_token=kfhgYlnu7Z&sn2=
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png" group-title="Vision TV",Sony Pix HD
