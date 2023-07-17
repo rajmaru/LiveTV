@@ -88,7 +88,7 @@ http://tv.cloudcdn.me:80/live?channelId=171&deviceMac=00:1A:79:00:00:00
 http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=863001&extension=ts&play_token=bErcgr3FCG&sn2=
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12068-j9o9t9jc-v1/imageContent-12068-j9o9t9jc-m1.png" group-title="Vision TV",Gujarat Samachar TV
-http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLyeFIZ4raMbtwoMJFdM8KAdIHWimMofd2gZFM_KD4o02KCoufr3txlU2D69XA58h3dQ?ext=.ts
+http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLydalgEpgHZHP0wZqvpA_QT98dhrvPaigaYDdbic-jnP51FAB5Blar1SWIkfUiLu1Q8?ext=.ts
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png" group-title="Vision TV",TV9 Gujarati
 http://tv.cloudcdn.me:80/live?channelId=19476&deviceMac=00:1A:79:00:00:00
