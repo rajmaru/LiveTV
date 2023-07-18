@@ -40,7 +40,7 @@ http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862738&extens
 http://tv.cloudcdn.me:80/live?channelId=33165&deviceMac=00:1A:79:00:00:00
 
 #EXTINF:0 tvg-logo="https://drive.google.com/uc?export=view&id=1GBPLQsE43ErC8F4pBxCiz5W6hl8kQZ_H" group-title="Vision TV",Star Gold Select
-http://tv.cloudcdn.me:80/live?channelId=197&deviceMac=00:1A:79:00:00:00
+http://2hubs.ddns.net:25461/BabNour/telegrramm/71097?checkedby:iptvcat.org
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-441-j5jt3mmg-v3/imageContent-441-j5jt3mmg-m3.png" group-title="Vision TV",SONY MAX
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
