@@ -49,7 +49,7 @@ https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="Vision TV",Zee Cinema HD
-http://tv.cloudcdn.me:80/live?channelId=213&deviceMac=00:1A:79:00:00:00
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67276?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="Vision TV",And Pictures HD
 http://tv.cloudcdn.me:80/live?channelId=139&deviceMac=00:1A:79:00:00:00
