@@ -70,10 +70,10 @@ http://cherryp.xyz:8880/play/live.php?mac=00:1A:79:B6:DC:A6&stream=862723&extens
 http://myzamdl.co.uk:80/play/UT5L3Jfv5eRLuha8X0FxIbT3b68dWSG5Jf5zpTXRuTyzeFBr2NLo5TNymOuaSfxvPh6V8qJTZ3R_stm_WmiObnvv-tD0atrQ65fsb_NwLyfl_L-NgN9HapTy2LBDM3plnA8q2Ig9GkzuWudpf01u2p9UpnaAqGF2XMWP_eL-E9s?ext=.ts
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png" group-title="Vision TV",Aaj Tak HD
-http://tv.cloudcdn.me:80/live?channelId=144&deviceMac=00:1A:79:00:00:00
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png" group-title="Vision TV",NDTV India
-http://tv.cloudcdn.me:80/live?channelId=178&deviceMac=00:1A:79:00:00:00
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png" group-title="Vision TV",Zee News
 http://tv.cloudcdn.me:80/live?channelId=216&deviceMac=00:1A:79:00:00:00
