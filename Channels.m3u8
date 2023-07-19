@@ -22,7 +22,7 @@ http://tv.cloudcdn.me:80/live?channelId=217&deviceMac=00:1A:79:00:00:00
 http://tv.cloudcdn.me:80/live?channelId=140&deviceMac=00:1A:79:00:00:00 
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12267-j9qx2si0-v3/imageContent-12267-j9qx2si0-m3.png" group-title="Vision TV",History TV18 HD
-https://sambhavilove1769.000webhostapp.com/Denver/Ultapulta.php?id=4020
+http://line.4k-beast.co:80/C82D2AC4ADDF524/H8eL8uzwaK/63573
 
 #EXTINF:0 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png" group-title="Vision TV",Discovery Science
 http://tv.cloudcdn.me:80/live?channelId=166&deviceMac=00:1A:79:00:00:00
